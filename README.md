@@ -20,3 +20,10 @@ global temperature anmoalies based on historical data.
    make future temperature anomaly predictions
    Usee the dropdown menus and to sliders to interact with the app and extract specific information
     
+Each file includes comprehensive in-line documentation detailing the purpose and function of each line of code. 
+
+## Tableau 
+Engage with the interactive elements, such as dropdown menus and sliders, to conduct a more comprehensive analysis of the data and obtain targeted insights
+
+### Link to Tableau
+https://public.tableau.com/app/profile/mado.provata/viz/Capstone_tableau_17414699916140/Dashboard1?publish=yes
