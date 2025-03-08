@@ -1,0 +1,29 @@
+Task: To develop an end-to-end machine learning pipeline
+that predicts global temperature anomalies based on historical data.
+The project will include building a predictive model
+using Machine Learning (ML), deploying it with Streamlit,
+and visualizing the results using Tableau/Power BI.
+
+Objective: The objective is to create a comprehensive
+tool that allows users to analyze global temperature
+anomalies, make future predictions, and visually
+explore climate trends.
+
+Dataset Description: This dataset provides monthly temperature
+anomalies from 1880 to the present, with each row representing
+a different year. The temperature anomalies are compared to a
+long-term baseline (typically the 20th-century average) and
+are measured in degrees Celsius.
+
+Columns in Dataset:
+1. Year: The year of observation.
+2. Month Columns (Jan-Dec): The temperature anomaly
+   for each month (from January to December).
+3. J-D: The annual mean temperature anomaly
+   (based on all 12 months of the year).
+4. D-N: The December to November temperature anomaly.
+5. Seasonal Columns (DJF, MAM, JJA, SON):
+   o DJF: Winter temperature anomaly (December, January, February).
+   o MAM: Spring temperature anomaly (March, April, May).
+   o JJA: Summer temperature anomaly (June, July, August).
+   o SON: Fall temperature anomaly (September, October, November).
